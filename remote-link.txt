@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mike-random-discipline-butter.trycloudflare.com/vnc.html
+URL       : https://medal-clearly-dice-designed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 15:41:14
+Created   : 2026-08-20 20:37:32
 =======================================================
